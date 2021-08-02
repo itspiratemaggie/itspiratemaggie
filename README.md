@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itspiratemaggie
+- 👋 Hi, I’m @winclars
 - 👀 I’m interested in everything that makes sense.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on learning
